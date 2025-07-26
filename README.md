@@ -6,7 +6,6 @@ This repository contains the code and documentation for the final project in CST
 
 - **Team Members**: Khaled Saleh, Yazid Rahmouni
 - **Repository Structure**:
-  - `NLP_Final_Project_Report.docx`: Project report document.
   - `NLP_Final_Project_Code.ipynb`: Jupyter notebook with full code implementation (data loading, preprocessing, models, evaluation).
   - `incidents_train.csv`, `incidents_valid.csv`, `incidents_test.csv`: Dataset files (not included here; download from Zenodo as described below).
   - `README.md`: This file.
