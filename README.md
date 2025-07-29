@@ -19,7 +19,7 @@ The project addresses the SemEval-2025 Task 9: Food Hazard Detection Challenge, 
 The data is multilingual and multiclass, requiring models that are accurate and interpretable to support real-world applications in food safety monitoring.
 
 ## Dataset Used
-The dataset consists of simulated food recall incident reports, sourced from `food_recall_incidents.csv` on Zenodo (DOI: 10.5281/zenodo.XXXXXXX – replace with actual DOI if available; for this project, we used the provided train/valid/test splits).
+The dataset consists of simulated food recall incident reports, sourced from `food_recall_incidents.csv` on Zenodo.
 
 - **Splits**:
   - Training: 5,082 samples
